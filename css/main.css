@@ -1,0 +1,126 @@
+.fazer{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.box1{
+	display: flex;
+	width: 100%;
+	min-width: 100px;
+	height: 100px;
+	justify-content: center;
+	align-items: center;
+	font-size: 20px;
+}
+.box2{
+	min-width: 100px;
+	min-height: 100px;
+	background-color: orange;
+}
+
+.mazer{
+	display: flex;
+	justify-content: space-between;
+}
+.box3{
+	display: flex;
+	min-width: 100px;
+	min-height: 100px;
+	justify-content: center;
+	align-items: center;
+}
+.box4{
+	width: 100%;
+	min-width: 100px;
+	height: 100px;
+	background-color: #D2B48C;
+}
+.box5{
+	display: flex;
+	min-width: 100px;
+	min-height: 100px;
+	justify-content: center;
+	align-items: center;
+}
+
+.sister{
+	display: flex;
+	justify-content: space-between;
+}
+
+.box6{
+	display: flex;
+	width: 100%;
+	min-width: 100px;
+	min-height: 100px;
+	justify-content: center;
+	align-items: center;
+	font-size: 17px;
+}
+.box7{
+	min-width: 100px;
+	min-height: 100px;
+	background-color: #40E0D0;
+}
+.box8{
+	min-width: 100px;
+	min-height: 100px;
+}
+
+.brazer{
+	display: flex;
+	justify-content: space-between;
+}
+
+.rod{
+display: flex;
+flex-direction: column;
+
+}
+.box9{
+	
+	width: 100px;
+	height: 100px;
+	background-color: #0000CD;
+}
+.box10{
+	width: 100px;
+	height: 100px;
+	background-color: #9400D3;
+}
+.box11{
+	width: 100px;
+	height: 100px;
+	background-color: #FF1493;
+}
+.rod1{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	
+}
+.box12{
+	width: 100px;
+	height: 100px;
+	background-color: black;
+}
+.box13{
+	width: 100px;
+	height: 100px;
+	background-color:#00FF00 ;
+}
+
+.rod2{
+	display: flex;
+	
+	justify-content: space-between;
+	align-items: flex-end;
+}
+.box14{
+	width: 100px;
+	height: 100px;
+	background-color:#ccFA33 ;
+}
+
+
+
